@@ -27,3 +27,22 @@ instead of using abstract examples.
 
 ## Author
 Ameer Hemmida
+## Screenshots
+
+### Display all users in the system
+This query retrieves every record from the `users` table and is usually the first step
+to verify table structure and data.
+![SELECT all users](screenshots/select_all_users.png)
+
+### Filter admin users
+Demonstrates how to use a `WHERE` clause to isolate users with administrative privileges.
+![Admin users query](screenshots/admin_users.png)
+
+### Sort users by balance (highest first)
+Shows how `ORDER BY` helps analyze financial data by ranking users based on balance.
+![Order by balance](screenshots/order_by_balance.png)
+
+### Update admin balances
+Illustrates a real-world operation where administrators receive a balance bonus.
+![Update admin balance](screenshots/update_admin_balance.png)
+
