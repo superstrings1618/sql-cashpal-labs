@@ -46,3 +46,4 @@ Shows how `ORDER BY` helps analyze financial data by ranking users based on bala
 Illustrates a real-world operation where administrators receive a balance bonus.
 ![Update admin balance](screenshots/update_admin_balance.png)
 
+📁 See `cashpal-users-lab/` for a complete SQL lab with screenshots and queries.
